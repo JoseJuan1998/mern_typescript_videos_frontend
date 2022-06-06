@@ -1,0 +1,4 @@
+.video-card:hover {
+  border: 1px solid #333;
+  cursor: pointer;
+}
